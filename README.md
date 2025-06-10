@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Carla!</h1>
-<h3 align="center">Una desarrolladora Fullstack con orientación Backend</h3>
+<h3 align="center">Desarrolladora Fullstack con orientación Backend</h3>
 
 - 🔭 He finalizado recientemente el proyecto final de Henry **Sentia**
 
