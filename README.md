@@ -1,10 +1,6 @@
 <h1 align="center">Hola, soy Carla!</h1>
 <h3 align="center">Desarrolladora Fullstack con orientación Backend</h3>
 
-- 🔭 He finalizado recientemente el proyecto final de Henry **Sentia**
-
-- 🌱 Sigo aprendiendo sobre **seguridad y bases de datos**
-
 - 📫 Pueden contactarme por email **carlitaormina93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
